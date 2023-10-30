@@ -6,5 +6,5 @@
 4. push de changes naar GitHub
 
 
-Vraag:
-Wat is je favoriete game?
+### Vraag:  
+**Wat is je favoriete game?**
